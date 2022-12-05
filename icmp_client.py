@@ -1,3 +1,5 @@
+# By my-0day / p1s1o
+
 from scapy.all import sr,IP,ICMP,Raw,sniff
 import argparse
 import os
