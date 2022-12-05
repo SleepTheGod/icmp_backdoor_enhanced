@@ -2,7 +2,7 @@
 
 # Usage
 
-- On server
+- On server (listener)
 <code>sudo python3 icmp_cnc.py -i eth0</code>
 
 - On client
