@@ -3,10 +3,10 @@
 #Usage
 
 # On server
-sudo python3 icmp_cnc.py -i eth0
+<code>sudo python3 icmp_cnc.py -i eth0</code>
 
 # On client
-sudo python3 icmp_client.py -i eth0 -d 10.10.10.10
+<code>sudo python3 icmp_client.py -i eth0 -d 10.10.10.10</code>
 
 Tested on Kali Linux but should be compatible with almost everything.
 
