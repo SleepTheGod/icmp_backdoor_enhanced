@@ -1,4 +1,4 @@
-# By my-0day / p1s1o
+# By my-0day / p1s1o. Taken inspiration from https://github.com/krabelize/icmpdoor
 
 from scapy.all import sr,IP,ICMP,Raw,sniff
 import argparse
